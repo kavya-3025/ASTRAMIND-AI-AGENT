@@ -9,7 +9,7 @@ The Web Navigator AI Agent is like a smart helper on your computer. You just typ
 ```
 TECHOLOGIES
 ```
-Backend:Built using Python to handle all the main logic and processes of the AI agent.Uses a local Large Language Model (LLM), optionally with LangChain, to understand user commands and plan tasks.<img width="1950" height="63" alt="image" src="https://github.com/user-attachments/assets/b41a8f61-0e53-447a-8623-494171585d74" />
+Backend:Built using Python to handle all the main logic and processes of the AI agent.Uses a local Large Language Model (LLM), optionally with LangChain, to understand user commands and plan tasks.
 
 Frontend :A simple interface using React or any basic UI framework to let users type commands and view results easily.
 
